@@ -1,0 +1,22 @@
+[2016-05-09 10:31:26 +0000] [2460] [INFO] Starting gunicorn 19.4.5
+[2016-05-09 10:31:26 +0000] [2460] [INFO] Listening at: http://127.0.0.1:8888 (2460)
+[2016-05-09 10:31:26 +0000] [2460] [INFO] Using worker: sync
+[2016-05-09 10:31:26 +0000] [2465] [INFO] Booting worker with pid: 2465
+[2016-05-09 10:40:23 +0000] [2460] [INFO] Handling signal: term
+[2016-05-09 10:40:23 +0000] [2465] [INFO] Worker exiting (pid: 2465)
+[2016-05-09 10:40:23 +0000] [2460] [INFO] Shutting down: Master
+[2016-05-09 10:41:01 +0000] [2565] [INFO] Starting gunicorn 19.4.5
+[2016-05-09 10:41:01 +0000] [2565] [INFO] Listening at: http://127.0.0.1:8888 (2565)
+[2016-05-09 10:41:01 +0000] [2565] [INFO] Using worker: sync
+[2016-05-09 10:41:01 +0000] [2570] [INFO] Booting worker with pid: 2570
+[2016-05-09 10:47:57 +0000] [2565] [INFO] Handling signal: hup
+[2016-05-09 10:47:57 +0000] [2565] [INFO] Hang up: Master
+[2016-05-09 10:47:57 +0000] [2570] [INFO] Worker exiting (pid: 2570)
+[2016-05-09 10:47:57 +0000] [2668] [INFO] Booting worker with pid: 2668
+Killed
+[2016-05-09 10:48:42 +0000] [2668] [INFO] Parent changed, shutting down: <Worker 2668>
+[2016-05-09 10:48:42 +0000] [2668] [INFO] Worker exiting (pid: 2668)
+[2016-05-09 10:50:36 +0000] [2745] [INFO] Starting gunicorn 19.4.5
+[2016-05-09 10:50:36 +0000] [2745] [INFO] Listening at: http://127.0.0.1:8888 (2745)
+[2016-05-09 10:50:36 +0000] [2745] [INFO] Using worker: sync
+[2016-05-09 10:50:36 +0000] [2750] [INFO] Booting worker with pid: 2750
